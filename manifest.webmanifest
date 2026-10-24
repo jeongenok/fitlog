@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "핏로그 — 나만의 운동 일지",
+  "short_name": "핏로그",
+  "description": "내 몸과 운동 기록을 한곳에 모으는 개인 헬스 일지",
+  "lang": "ko-KR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f0",
+  "theme_color": "#f5f5f0",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "./icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
